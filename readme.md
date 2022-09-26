@@ -36,7 +36,7 @@ Você pode visualizar o template do projeto [clicando neste link](https://www.fi
 
 Neste desafio você vai construir um card que altere as cores de fundo e tenha integração com a API do Github*.* Caso você ainda não tenha feito os cursos do Discover ou queira fazer uma revisão, segue abaixo uma lista dos cursos que podem te ajudar a resolver este desafio.
 
-- [https://app.rocketseat.com.br/node/mission-origin-heat](https://app.rocketseat.com.br/node/mission-origin-heat)
+- [o-guia-estelar-de-html](https://app.rocketseat.com.br/discover/course/o-guia-estelar-de-html)
 
 **Requisitos para o desafio:**
 
