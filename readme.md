@@ -6,7 +6,7 @@ Neste desafio você deverá desenvolver um card que traga as informações da AP
 
 ## Layout
 
-![preview.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/53824a7e-feac-438c-8e9c-24d63430ccc3/preview.gif)
+![preview.gif](./.github/preview.gif)
 
 Você pode visualizar o template do projeto [clicando neste link](https://www.figma.com/file/xszb6WTlwCXWqE5jg4q2SO/DD-Rocketcard/duplicate)
 
