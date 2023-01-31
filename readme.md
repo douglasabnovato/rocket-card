@@ -69,7 +69,7 @@ Neste desafio você vai construir um card que altere as cores de fundo e tenha i
 
 #### 🎨 Fontes
 
-- [ ] inserir as variáveis de [Google Fonts](https://fonts.google.com/)
+- [x] inserir as variáveis de [Google Fonts](https://fonts.google.com/)
 - font-family: Prompt 
 - Font Weight: 100, 400 e 700
  
@@ -79,9 +79,9 @@ A ideia é dominar o processo e o fluxo de desenvolver projetos e por isso, list
 
 #### 📅 Gestão do projeto
 
-- [ ] Organizando os detalhes do projeto no readme.md
-- [ ] Uma branch main e uma developer, uma branch para cada tarefa
-- [ ] Favicon
+- [x] Organizando os detalhes do projeto no readme.md
+- [x] Uma branch main e uma developer, uma branch para cada tarefa
+- [x] Favicon
 
 #### 📅 Aperfeiçoar em detalhes
 
