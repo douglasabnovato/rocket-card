@@ -28,30 +28,26 @@ body {
 }
 
 .box {
-    position: absolute;
     width: 438px;
     height: 693px;
-    left: 366px;
-    top: 106px;
-
     background: #000000;
     border-radius: 50px;
+    padding-top: 1.5rem;
 }
 
 .card {
-    position: absolute;
     width: 407px;
     height: 644px;
-    left: 382px;
-    top: 130px;
-
+    margin: 0 auto;
+    padding-top: 2rem;
+    padding-left: 2rem;
     background: #0E1218;
     border-radius: 50px;
 }
 
 .header {
     display: flex;
-    width: 230.41px;
+    align-items: center;
     height: 54.44px;
 }
 
@@ -59,11 +55,19 @@ body {
     width: 55.42px;
     height: 54.44px;
     border: 1px solid #F1F1F1;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 35px;
 }
 
 .header .img-header img {
     width: 30.14px;
     height: 36.94px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .header span {
@@ -74,43 +78,42 @@ body {
     font-weight: 400;
     font-size: 24px;
     line-height: 36px;
-
     color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .profile {
     display: flex;
     justify-content: center;
-
-    position: absolute;
     width: 331px;
     height: 418px;
-    left: 458px;
-    top: 234px;
 }
 
 .profile .image-profile {
-    position: absolute;
     width: 372px;
     height: 370.23px;
-    left: 13px;
-    top: 30px;
-
     background: url('./assets/image-profile.png');
     border: 10px solid #8257E5;
     border-radius: 300px;
 }
 
-.profile img #logo {
-    width: 16px;
-    height: 16px;
-}
-
 .contacts {
+    width: 203.13px;
+    height: 194.7px;
     color: white;
+    background: linear-gradient(180deg, #000000 3.65%, rgba(70, 69, 69, 0.72) 53.65%, rgba(62, 56, 56, 0.42) 100%);
+    border-radius: 50px;
 }
 
 .contacts ul {
+    padding: 30px;
+    width: 195.5px;
+    height: 194.7px;
+}
+
+.contacts ul li {
     list-style-type: none;
 }
 
@@ -118,9 +121,8 @@ body {
     font-family: 'Prompt', sans-serif;
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 24px;
-
     color: #FFFFFF;
 }
 
@@ -142,16 +144,13 @@ body {
     height: 34.32px;
 }
 
-.footer .img-footer img {}
-
 .footer span {
     width: 144.52px;
     height: 17.16px;
-    font-family: 'Prompt';
+    font-family: 'Prompt', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 30px;
-
     color: #FFFFFF;
 }

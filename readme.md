@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="rocket card" title="#rocket-card" src="./.github/tela.png">
+  <img alt="rocket card" title="#rocket-card" src="./.github/desktop-1.jpg">
 </p>    
 
 ### 💻 Sobre o desafio 
@@ -44,7 +44,7 @@ Neste desafio você vai construir um card que altere as cores de fundo e tenha i
 - [ ] header
 - [ ] profile
 - [ ] contacts
-- [ ] footer
+- [ ] footer como botão para alternar cor
 - [ ] consumir API do Github;
 - [ ] ter um botão que altere a cor de fundo;
 - [ ] criando um botão para fazer o download do card;
@@ -98,7 +98,7 @@ A ideia é dominar o processo e o fluxo de desenvolver projetos e por isso, list
 - Desktop
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="login form" title="#login-form" src="./.github/desktop-2.jpg" width="400px">  
+  <img alt="login form" title="#login-form" src="./.github/desktop-1.jpg" width="400px">  
 </p>  
 
 - Mobile
