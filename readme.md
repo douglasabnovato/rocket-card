@@ -19,7 +19,7 @@ Neste desafio você deverá desenvolver um card que traga as informações da AP
 
 #### 💻 Como começar? 
 
-1 - Use o link do [Figma](https://www.figma.com/file/xszb6WTlwCXWqE5jg4q2SO/DD-Rocketcard/duplicate)   como base para o projeto. Também disponibilizamos para download todos os assets necessários (imagens e ícones), para fazer o download basta clicar no link acima.  
+1 - Use o link do **[Figma](https://www.figma.com/file/xszb6WTlwCXWqE5jg4q2SO/DD-Rocketcard/duplicate)**   como base para o projeto. Também disponibilizamos para download todos os assets necessários (imagens e ícones), para fazer o download basta clicar no link acima.  
 
 2 - Leia com atenção todas as instruções do desafio.
 
