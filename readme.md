@@ -33,24 +33,18 @@ Neste desafio você vai construir um card que altere as cores de fundo e tenha i
 
 - [o-guia-estelar-de-html](https://app.rocketseat.com.br/discover/course/o-guia-estelar-de-html)
 
-**Requisitos para o desafio:**
-
-- Consumir API do Github;
-- Ter um botão que altere a cor de fundo;
-
-***Se desafie também:***
-
-- Criando um botão para fazer o download do card;
-- Copiar o card no `clipboard` ;
-- Adicionando animação no card;
-
 ### ✅ **Requisitos**
 
 ![preview.gif](./.github/preview.gif) 
 
-#### ✅ **[Requisitos](https://efficient-sloth-d85.notion.site/Desafio-Rocketcard-0d3572ef941f4a88889191773fe61c44#a37db0b5c5fa456fad709625adb06dd1)**
+#### ✅ **[Requisitos para o desafio](https://efficient-sloth-d85.notion.site/Desafio-Rocketcard-0d3572ef941f4a88889191773fe61c44#a37db0b5c5fa456fad709625adb06dd1)**
  
 - [ ] estrutura do html
+- [ ] Consumir API do Github;
+- [ ] Ter um botão que altere a cor de fundo;
+- [ ] Criando um botão para fazer o download do card;
+- [ ] Copiar o card no `clipboard` ;
+- [ ] Adicionando animação no card;
 
 ### ✅ Próximos passos
 
