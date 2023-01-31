@@ -28,28 +28,130 @@ body {
 }
 
 .box {
-    padding: 10px;
+    position: absolute;
+    width: 438px;
+    height: 693px;
+    left: 366px;
+    top: 106px;
+
+    background: #000000;
+    border-radius: 50px;
 }
 
-.icons {
+.card {
+    position: absolute;
+    width: 407px;
+    height: 644px;
+    left: 382px;
+    top: 130px;
+
+    background: #0E1218;
+    border-radius: 50px;
+}
+
+.header {
+    display: flex;
+    width: 230.41px;
+    height: 54.44px;
+}
+
+.header .img-header {
+    width: 55.42px;
+    height: 54.44px;
+    border: 1px solid #F1F1F1;
+}
+
+.header .img-header img {
+    width: 30.14px;
+    height: 36.94px;
+}
+
+.header span {
+    width: 155.55px;
+    height: 18.47px;
+    font-family: 'Prompt';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #FFFFFF;
+}
+
+.profile {
     display: flex;
     justify-content: center;
+
+    position: absolute;
+    width: 331px;
+    height: 418px;
+    left: 458px;
+    top: 234px;
 }
 
-.icons img{
-    margin-inline: 10px;
+.profile .image-profile {
+    position: absolute;
+    width: 372px;
+    height: 370.23px;
+    left: 13px;
+    top: 30px;
+
+    background: url('./assets/image-profile.png');
+    border: 10px solid #8257E5;
+    border-radius: 300px;
 }
 
-.icons img #logo{
+.profile img #logo {
     width: 16px;
     height: 16px;
 }
 
-.name {
-    font-family: "Prompt", sans-serif;
-    font-weight: 700;
-    letter-spacing: .5rem;
-    display: flex;
-    justify-content: center;
-    color: var(--text);
+.contacts {
+    color: white;
+}
+
+.contacts ul {
+    list-style-type: none;
+}
+
+.contacts ul li span {
+    font-family: 'Prompt', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+}
+
+.contacts ul li span img {
+    width: 20.79px;
+    height: 20.79px;
+}
+
+.footer {
+    width: 229px;
+    height: 59.47px;
+    background: #000000;
+    border: 2px solid #1A1A1A;
+    border-radius: 15px;
+}
+
+.footer .img-footer {
+    width: 28px;
+    height: 34.32px;
+}
+
+.footer .img-footer img {}
+
+.footer span {
+    width: 144.52px;
+    height: 17.16px;
+    font-family: 'Prompt';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #FFFFFF;
 }

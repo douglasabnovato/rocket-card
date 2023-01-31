@@ -39,12 +39,17 @@ Neste desafio você vai construir um card que altere as cores de fundo e tenha i
 
 #### ✅ [Requisitos para o desafio](https://efficient-sloth-d85.notion.site/Desafio-Rocketcard-0d3572ef941f4a88889191773fe61c44#a37db0b5c5fa456fad709625adb06dd1)
  
-- [ ] estrutura do html
-- [ ] Consumir API do Github;
-- [ ] Ter um botão que altere a cor de fundo;
-- [ ] Criando um botão para fazer o download do card;
-- [ ] Copiar o card no `clipboard` ;
-- [ ] Adicionando animação no card;
+- [x] estrutura do html
+- [ ] card
+- [ ] header
+- [ ] profile
+- [ ] contacts
+- [ ] footer
+- [ ] consumir API do Github;
+- [ ] ter um botão que altere a cor de fundo;
+- [ ] criando um botão para fazer o download do card;
+- [ ] copiar o card no `clipboard` ;
+- [ ] adicionando animação no card;
 
 #### ✅ Próximos passos
 
