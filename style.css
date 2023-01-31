@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;700&family=Prompt:wght@100;400;700&display=swap');
+
+:root {
+    --bg: #000000;
+    --bg-card: #0E1218;
+    --text: #F1F1F1;
+    --img-profile: #8257e5;
+    --buttons: #FFF;
+    --border-button: #1A1A1A;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background: grey;
+}
+
+body {
+    width: 65%;
+    max-width: 70vw;
+    height: 100vh;
+    margin: 0 auto;
+    background: goldenrod;
+}
+
+.box {
+    padding: 10px;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+}
+
+.name {
+    font-family: "Prompt", sans-serif;
+    display: flex;
+    justify-content: center;
+}
