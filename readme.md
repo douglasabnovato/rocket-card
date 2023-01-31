@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="rocket card" title="#rocket-card" src="./.github/tela.png">
+  <img alt="rocket card" title="#rocket-card" src="./.github/desktop-2.jpg">
 </p>    
 
 ### 💻 Sobre o desafio 
@@ -19,7 +19,7 @@ Neste desafio você deverá desenvolver um card que traga as informações da AP
 
 #### 💻 Como começar? 
 
-1 - Use o link do [Figma](https://www.figma.com/file/xszb6WTlwCXWqE5jg4q2SO/DD-Rocketcard/duplicate)   como base para o projeto. Também disponibilizamos para download todos os assets necessários (imagens e ícones), para fazer o download basta clicar no link acima.  
+1 - Use o link do **[Figma](https://www.figma.com/file/xszb6WTlwCXWqE5jg4q2SO/DD-Rocketcard/duplicate)**   como base para o projeto. Também disponibilizamos para download todos os assets necessários (imagens e ícones), para fazer o download basta clicar no link acima.  
 
 2 - Leia com atenção todas as instruções do desafio.
 
@@ -33,26 +33,25 @@ Neste desafio você vai construir um card que altere as cores de fundo e tenha i
 
 - [o-guia-estelar-de-html](https://app.rocketseat.com.br/discover/course/o-guia-estelar-de-html)
 
-**Requisitos para o desafio:**
-
-- Consumir API do Github;
-- Ter um botão que altere a cor de fundo;
-
-***Se desafie também:***
-
-- Criando um botão para fazer o download do card;
-- Copiar o card no `clipboard` ;
-- Adicionando animação no card;
-
 ### ✅ **Requisitos**
 
 ![preview.gif](./.github/preview.gif) 
 
-#### ✅ **[Requisitos](https://efficient-sloth-d85.notion.site/Desafio-Rocketcard-0d3572ef941f4a88889191773fe61c44#a37db0b5c5fa456fad709625adb06dd1)**
+#### ✅ [Requisitos para o desafio](https://efficient-sloth-d85.notion.site/Desafio-Rocketcard-0d3572ef941f4a88889191773fe61c44#a37db0b5c5fa456fad709625adb06dd1)
  
-- [ ] estrutura do html
+- [x] estrutura do html
+- [ ] card
+- [ ] header
+- [ ] profile
+- [ ] contacts
+- [ ] footer como botão para alternar cor
+- [ ] consumir API do Github;
+- [ ] ter um botão que altere a cor de fundo;
+- [ ] criando um botão para fazer o download do card;
+- [ ] copiar o card no `clipboard` ;
+- [ ] adicionando animação no card;
 
-### ✅ Próximos passos
+#### ✅ Próximos passos
 
 - [ ] responsividade
 - [ ] responsividade das imagens 
@@ -75,19 +74,19 @@ Neste desafio você vai construir um card que altere as cores de fundo e tenha i
 
 #### 🎨 Fontes
 
-- [ ] inserir as variáveis de [Google Fonts](https://fonts.google.com/)
+- [x] inserir as variáveis de [Google Fonts](https://fonts.google.com/)
 - font-family: Prompt 
 - Font Weight: 100, 400 e 700
  
-### 📅 Entrega
+### 📅 Entregas
 
 A ideia é dominar o processo e o fluxo de desenvolver projetos e por isso, listados e descritos as tarefas em readme.
 
 #### 📅 Gestão do projeto
 
-- [ ] Organizando os detalhes do projeto no readme.md
-- [ ] Uma branch main e uma developer, uma branch para cada tarefa
-- [ ] Favicon
+- [x] Organizando os detalhes do projeto no readme.md
+- [x] Uma branch main e uma developer, uma branch para cada tarefa
+- [x] Favicon
 
 #### 📅 Aperfeiçoar em detalhes
 
@@ -100,6 +99,7 @@ A ideia é dominar o processo e o fluxo de desenvolver projetos e por isso, list
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="login form" title="#login-form" src="./.github/desktop-2.jpg" width="400px">  
+  <img alt="login form" title="#login-form" src="./.github/desktop-1.jpg" width="400px">  
 </p>  
 
 - Mobile
