@@ -86,7 +86,7 @@ A ideia é dominar o processo e o fluxo de desenvolver projetos e por isso, list
 
 - [x] Organizando os detalhes do projeto no readme.md
 - [x] Uma branch main e uma developer, uma branch para cada tarefa
-- [ ] Favicon
+- [x] Favicon
 
 #### 📅 Aperfeiçoar em detalhes
 
