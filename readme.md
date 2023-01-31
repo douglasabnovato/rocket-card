@@ -1,28 +1,25 @@
-# Sobre o desafio
+<h4 align="center"> 
+	🚧 Rocket Card 🚀
+</h4>
 
----
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="rocket card" title="#rocket-card" src="./.github/tela.png">
+</p>    
+
+### 💻 Sobre o desafio 
 
 Neste desafio você deverá desenvolver um card que traga as informações da API do Github e tenha um botão que altere a cor do fundo do card.
 
-## Layout
+#### 💻 Techs
 
-![preview.gif](./.github/preview.gif)
-
-Você pode visualizar o template do projeto [clicando neste link](https://www.figma.com/file/xszb6WTlwCXWqE5jg4q2SO/DD-Rocketcard/duplicate)
-
-# 🚀 **Techs**
-
----
-
+- Nível de dificuldade: Intermediário
 - HTML
 - CSS
 - JavaScript
 
-# 💡**Como começar?**
+#### 💻 Como começar? 
 
----
-
-1 - Use o link do Figma como base para o projeto. Também disponibilizamos para download todos os assets necessários (imagens e ícones), para fazer o download basta clicar no link acima.  
+1 - Use o link do [Figma](https://www.figma.com/file/xszb6WTlwCXWqE5jg4q2SO/DD-Rocketcard/duplicate)   como base para o projeto. Também disponibilizamos para download todos os assets necessários (imagens e ícones), para fazer o download basta clicar no link acima.  
 
 2 - Leia com atenção todas as instruções do desafio.
 
@@ -30,9 +27,7 @@ Você pode visualizar o template do projeto [clicando neste link](https://www.fi
 
 4 - Compartilhe seu resultado ou tire suas dúvidas na nossa [**comunidade aberta**](https://discord.gg/bacwY2gDCF)  
 
-# ✅ **[Requisitos](https://efficient-sloth-d85.notion.site/Desafio-Rocketcard-0d3572ef941f4a88889191773fe61c44#a37db0b5c5fa456fad709625adb06dd1)**
-
----
+### 💡 Conteúdos Aplicados
 
 Neste desafio você vai construir um card que altere as cores de fundo e tenha integração com a API do Github*.* Caso você ainda não tenha feito os cursos do Discover ou queira fazer uma revisão, segue abaixo uma lista dos cursos que podem te ajudar a resolver este desafio.
 
@@ -49,12 +44,24 @@ Neste desafio você vai construir um card que altere as cores de fundo e tenha i
 - Copiar o card no `clipboard` ;
 - Adicionando animação no card;
 
-# 🎨 Style Guide
+### ✅ **Requisitos**
 
----
+![preview.gif](./.github/preview.gif) 
 
-## **Cores:**
+#### ✅ **[Requisitos](https://efficient-sloth-d85.notion.site/Desafio-Rocketcard-0d3572ef941f4a88889191773fe61c44#a37db0b5c5fa456fad709625adb06dd1)**
+ 
+- [ ] estrutura do html
 
+### ✅ Próximos passos
+
+- [ ] responsividade
+- [ ] responsividade das imagens 
+- [ ] perfect pixel
+
+### 🎨 Style Guide
+
+#### 🎨 Cores
+ 
 ```css
 :root {
   --bg: #000000;
@@ -66,18 +73,41 @@ Neste desafio você vai construir um card que altere as cores de fundo e tenha i
 }
 ```
 
-## **Tipo de fonte:**
+#### 🎨 Fontes
 
-font-family: Prompt 
+- [ ] inserir as variáveis de [Google Fonts](https://fonts.google.com/)
+- font-family: Prompt 
+- Font Weight: 100, 400 e 700
+ 
+### 📅 Entrega
 
-Font Weight: 100, 400 e 700
+A ideia é dominar o processo e o fluxo de desenvolver projetos e por isso, listados e descritos as tarefas em readme.
 
-Você pode encontrar a fonte no [Google Fonts](https://fonts.google.com/) 
+#### 📅 Gestão do projeto
 
-# 📅 Entrega
+- [ ] Organizando os detalhes do projeto no readme.md
+- [ ] Uma branch main e uma developer, uma branch para cada tarefa
+- [ ] Favicon
 
----
+#### 📅 Aperfeiçoar em detalhes
 
-Esses desafios **não precisam ser entregues** e não receberão correção. Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
+- [ ] [Learn Responsive Design](https://web.dev/learn/design/)
+- [ ] [Learn CSS](https://web.dev/learn/css/)
 
-Feito com 💜 por Rocketseat 👋 Participe da nossa [comunidade aberta](https://discord.gg/bacwY2gDCF)!
+#### 📅 Telas Finais
+
+- Desktop
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="login form" title="#login-form" src="./.github/desktop-2.jpg" width="400px">  
+</p>  
+
+- Mobile
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="login form" title="#rocketnews" src="./.github/mobile-1.jpg" height="400px"> 
+</p>  
+
+Feito com ❤️ por Douglas A B Novato. 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
+ 
+Fonte do projeto na [Rocketseat](https://www.rocketseat.com.br/). 👋 Participe da [comunidade aberta](https://discord.gg/bacwY2gDCF)!
