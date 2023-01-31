@@ -37,7 +37,7 @@ Neste desafio você vai construir um card que altere as cores de fundo e tenha i
 
 ![preview.gif](./.github/preview.gif) 
 
-#### ✅ **[Requisitos para o desafio](https://efficient-sloth-d85.notion.site/Desafio-Rocketcard-0d3572ef941f4a88889191773fe61c44#a37db0b5c5fa456fad709625adb06dd1)**
+#### ✅ [Requisitos para o desafio](https://efficient-sloth-d85.notion.site/Desafio-Rocketcard-0d3572ef941f4a88889191773fe61c44#a37db0b5c5fa456fad709625adb06dd1)
  
 - [ ] estrutura do html
 - [ ] Consumir API do Github;
@@ -46,7 +46,7 @@ Neste desafio você vai construir um card que altere as cores de fundo e tenha i
 - [ ] Copiar o card no `clipboard` ;
 - [ ] Adicionando animação no card;
 
-### ✅ Próximos passos
+#### ✅ Próximos passos
 
 - [ ] responsividade
 - [ ] responsividade das imagens 
@@ -73,7 +73,7 @@ Neste desafio você vai construir um card que altere as cores de fundo e tenha i
 - font-family: Prompt 
 - Font Weight: 100, 400 e 700
  
-### 📅 Entrega
+### 📅 Entregas
 
 A ideia é dominar o processo e o fluxo de desenvolver projetos e por isso, listados e descritos as tarefas em readme.
 
