@@ -45,11 +45,11 @@ Neste desafio você vai construir um card que altere as cores de fundo e tenha i
 - [x] profile
 - [x] contacts
 - [x] footer como botão para alternar cor
-- [x] ter um botão que altere a cor de fundo handomicamente;
-- [ ] consumir API do Github;
-- [ ] criando um botão para fazer o download do card;
-- [ ] copiar o card no `clipboard` ;
-- [ ] adicionando animação no card;
+- [x] ter um botão que altere a cor de fundo handomicamente 
+- [ ] consumir API do Github 
+- [ ] criando um botão para fazer o download do card 
+- [ ] copiar o card no `clipboard` 
+- [ ] adicionando animação no card 
 
 #### ✅ Próximos passos
 
