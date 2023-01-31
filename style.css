@@ -42,7 +42,7 @@ body {
     padding-top: 2rem;
     padding-left: 2rem;
     background: #0E1218;
-    border-radius: 50px;
+    border-radius: 50px; 
 }
 
 .header {
@@ -84,6 +84,11 @@ body {
     align-items: center;
 }
 
+.container {
+    margin: 0;
+    padding: 0;
+}
+
 .profile {
     display: flex;
     justify-content: center;
@@ -92,11 +97,13 @@ body {
 }
 
 .profile .image-profile {
-    width: 372px;
-    height: 370.23px;
-    background: url('./assets/image-profile.png');
-    border: 10px solid #8257E5;
-    border-radius: 300px;
+    width: 90%;
+    background-image: url('./assets/image-profile.png');
+    background-repeat: no-repeat;
+    justify-content: right;
+    align-items: right;
+    margin-top: 30px;
+    margin-right: -120px;
 }
 
 .contacts {
@@ -104,7 +111,8 @@ body {
     height: 194.7px;
     color: white;
     background: linear-gradient(180deg, #000000 3.65%, rgba(70, 69, 69, 0.72) 53.65%, rgba(62, 56, 56, 0.42) 100%);
-    border-radius: 50px;
+    border-radius: 50px; 
+    margin-top: -180px;
 }
 
 .contacts ul {
@@ -115,6 +123,10 @@ body {
 
 .contacts ul li {
     list-style-type: none;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-top: 3px;
 }
 
 .contacts ul li span {
@@ -124,11 +136,19 @@ body {
     font-size: 14px;
     line-height: 24px;
     color: #FFFFFF;
+    letter-spacing: 1px;
 }
 
 .contacts ul li span img {
-    width: 20.79px;
-    height: 20.79px;
+    
+    font-size: 20px;
+    margin-right: 12px;
+}
+
+.det {
+    display: flex;
+    justify-content: right;
+    width: 100%;
 }
 
 .footer {
@@ -137,11 +157,20 @@ body {
     background: #000000;
     border: 2px solid #1A1A1A;
     border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    margin-top: 35px;
+    margin-right: 12px;  
 }
 
-.footer .img-footer {
+.footer .img-footer img {
     width: 28px;
     height: 34.32px;
+    margin-right: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer span {
@@ -153,4 +182,7 @@ body {
     font-size: 20px;
     line-height: 30px;
     color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
