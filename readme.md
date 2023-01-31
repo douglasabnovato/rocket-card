@@ -31,7 +31,7 @@ Neste desafio você deverá desenvolver um card que traga as informações da AP
 
 Neste desafio você vai construir um card que altere as cores de fundo e tenha integração com a API do Github*.* Caso você ainda não tenha feito os cursos do Discover ou queira fazer uma revisão, segue abaixo uma lista dos cursos que podem te ajudar a resolver este desafio.
 
-- [o-guia-estelar-de-html](https://app.rocketseat.com.br/discover/course/o-guia-estelar-de-html)
+- [x] [o-guia-estelar-de-html](https://app.rocketseat.com.br/discover/course/o-guia-estelar-de-html)
 
 ### ✅ **Requisitos**
 
@@ -86,7 +86,7 @@ A ideia é dominar o processo e o fluxo de desenvolver projetos e por isso, list
 
 - [x] Organizando os detalhes do projeto no readme.md
 - [x] Uma branch main e uma developer, uma branch para cada tarefa
-- [x] Favicon
+- [ ] Favicon
 
 #### 📅 Aperfeiçoar em detalhes
 
