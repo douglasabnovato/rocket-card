@@ -85,10 +85,10 @@ body {
 }
 
 .profile {
-    width: 90%;
+    width: 100%;
     height: 64%;
     margin-top: 15px;
-    margin-left: 45px;
+    margin-left: 37px;
 }
 
 .profile .image-profile {
@@ -96,6 +96,10 @@ body {
     height: 100%;
     background-image: url('./assets/image-profile.png');
     background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: 10px solid var(--img-profile);
+    border-radius: 50%;
 }
 
 .contacts {

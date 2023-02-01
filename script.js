@@ -1,32 +1,42 @@
 'use strict';
 
-const generate = document.querySelector(".box");
-
-function generatebkg() {
-    let red = Math.floor(Math.random() * (255 - 0) + 0);
-    let green = Math.floor(Math.random() * (255 - 0) + 0);
-    let blue = Math.floor(Math.random() * (255 - 0) + 0);
-
-    generate.style.background = `rgb(${red}, ${green}, ${blue} )`;
-}
 
 function getApi(url_github) {
 
-    let request = new XMLHttpRequest();
+  let request = new XMLHttpRequest();
 
-    request.open("GET", url_github, false);
-    request.send();
+  request.open("GET", url_github, false);
+  request.send();
 
-    return request.responseText;
+  return request.responseText;
+}
+
+function preencher(user) {
+
+  console.log(user);
+ 
+  const titulo = document.querySelector(".titulo"); 
+  titulo.innerText = user.login; 
+
+  const image_profile = document.querySelector(".image-profile"); 
+  image_profile.style.backgroundImage = `url(${user.avatar_url})` ;
+
 }
 
 function main() {
-    let data = getApi("https://api.github.com/users/douglasabnovato/repos");
-    let repositories = JSON.parse(data);
-    
-    let div_box_projects = document.getElementById("box-projects");
-    repositories.forEach((repository) => {
-      let repo = createRepo(repository);
-      div_box_projects.appendChild(repo);
-    });
-  }
+  let data = getApi("https://api.github.com/users/douglasabnovato");
+  let repositories = JSON.parse(data);
+  preencher(repositories);
+}
+
+main();
+
+const generate = document.querySelector(".box");
+
+function generatebkg() {
+  let red = Math.floor(Math.random() * (255 - 0) + 0);
+  let green = Math.floor(Math.random() * (255 - 0) + 0);
+  let blue = Math.floor(Math.random() * (255 - 0) + 0);
+
+  generate.style.background = `rgb(${red}, ${green}, ${blue} )`;
+}
