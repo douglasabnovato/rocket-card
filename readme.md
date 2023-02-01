@@ -98,6 +98,7 @@ A ideia é dominar o processo e o fluxo de desenvolver projetos e por isso, list
 - Desktop
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="login form" title="#login-form" src="./.github/desktop-5.jpg" width="400px">
   <img alt="login form" title="#login-form" src="./.github/desktop-4.jpg" width="400px">
   <img alt="login form" title="#login-form" src="./.github/desktop-3.jpg" width="400px">
   <img alt="login form" title="#login-form" src="./.github/desktop-2.jpg" width="400px">  
@@ -107,6 +108,7 @@ A ideia é dominar o processo e o fluxo de desenvolver projetos e por isso, list
 - Mobile
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="login form" title="#rocketnews" src="./.github/mobile-2.jpg" height="400px"> 
   <img alt="login form" title="#rocketnews" src="./.github/mobile-1.jpg" height="400px"> 
 </p>  
 

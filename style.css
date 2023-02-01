@@ -87,8 +87,7 @@ body {
 .profile {
     width: 100%;
     height: 64%;
-    margin-top: 15px;
-    margin-left: 37px;
+    margin-top: 2px;
 }
 
 .profile .image-profile {
@@ -108,11 +107,13 @@ body {
     color: white;
     background: linear-gradient(180deg, #000000 3.65%, rgba(70, 69, 69, 0.72) 53.65%, rgba(62, 56, 56, 0.42) 100%);
     border-radius: 50px;
-    margin-top: -150px;
+    margin-top: -115px;
+    margin-left: -10px;
 }
 
 .contacts ul {
-    padding: 30px;
+    padding-top: 31px;
+    padding-left: 26px;
     width: 195.5px;
     height: 194.7px;
 }
@@ -152,7 +153,7 @@ body {
     align-items: center;
     width: 229px;
     height: 59.47px;
-    margin-top: 35px;
+    margin-top: 10px;
     margin-right: 12px;
     background: #000000;
     border: 2px solid #1A1A1A;
@@ -202,4 +203,13 @@ body {
     font-size: 20px;
     line-height: 30px;
     color: #FFFFFF;
+}
+
+@media (min-width : 375px) and (max-width: 800px) {
+
+    body {
+        width: 100vw;
+        height: 100vh;
+        margin: 0;
+    }
 }
