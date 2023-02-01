@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="rocket card" title="#rocket-card" src="./.github/desktop-4.jpg">
+  <img alt="rocket card" title="#rocket-card" src="./.github/desktop-5.jpg">
 </p>    
 
 ### 💻 Sobre o desafio 
