@@ -112,6 +112,23 @@ A ideia é dominar o processo e o fluxo de desenvolver projetos e por isso, list
   <img alt="login form" title="#rocketnews" src="./.github/mobile-1.jpg" height="400px"> 
 </p>  
 
+#### 📅 Consultas
+
+- [z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index)
+- [z-index](https://css-tricks.com/almanac/properties/z/z-index/)
+- [position](https://css-tricks.com/almanac/properties/p/position/)
+- [button-onclick](https://www.freecodecamp.org/portuguese/news/tutorial-sobre-button-onclick-em-html-e-evento-de-clique-em-javascript/)
+- [color](https://developer.mozilla.org/pt-BR/docs/Web/CSS/color_value)
+- [random](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+- [floor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor)
+- [consumo-api-js](https://github.com/fernandoleonid/consumo-api-js)
+- [rest-api](https://docs.github.com/en/rest/guides/using-the-rest-api-to-interact-with-your-git-database?apiVersion=2022-11-28)
+- [style_backgroundimage](https://www.w3schools.com/jsref/prop_style_backgroundimage.asp)
+- [background-size](https://developer.mozilla.org/en-US/docs/Web/CSS/background-size)
+- [indexof](https://www.devmedia.com.br/javascript-indexof-encontrando-a-posicao-de-um-caractere-ou-string/39422)
+- [slice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/slice)
+- [media_queries](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries)
+
 Feito com ❤️ por Douglas A B Novato. 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
  
 Fonte do projeto na [Rocketseat](https://www.rocketseat.com.br/). 👋 Participe da [comunidade aberta](https://discord.gg/bacwY2gDCF)!
