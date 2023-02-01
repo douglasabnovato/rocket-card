@@ -12,14 +12,26 @@ function getApi(url_github) {
 }
 
 function preencher(user) {
+  const titulo = document.querySelector(".titulo");
+  titulo.innerText = user.login;
 
-  console.log(user);
- 
-  const titulo = document.querySelector(".titulo"); 
-  titulo.innerText = user.login; 
+  const image_profile = document.querySelector(".image-profile");
+  image_profile.style.backgroundImage = `url(${user.avatar_url})`;
 
-  const image_profile = document.querySelector(".image-profile"); 
-  image_profile.style.backgroundImage = `url(${user.avatar_url})` ;
+  const num_following = document.querySelector(".num_following");
+  num_following.innerText = user.following;
+
+  const num_followers = document.querySelector(".num_followers");
+  num_followers.innerText = user.followers;
+  
+  const public_repos = document.querySelector(".public_repos");
+  public_repos.innerText = user.public_repos;
+  
+  const nam_company = document.querySelector(".nam_company");
+  nam_company.innerText = user.company;
+  
+  const lo_location = document.querySelector(".lo_location");
+  lo_location.innerText = (user.location.slice(0, user.location.search('-')));   
 
 }
 
